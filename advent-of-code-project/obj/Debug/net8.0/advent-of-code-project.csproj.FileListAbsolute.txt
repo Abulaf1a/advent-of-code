@@ -1,0 +1,15 @@
+C:\Users\peter\Documents\advent-of-code\advent-of-code-project\bin\Debug\net8.0\advent-of-code-project.exe
+C:\Users\peter\Documents\advent-of-code\advent-of-code-project\bin\Debug\net8.0\advent-of-code-project.deps.json
+C:\Users\peter\Documents\advent-of-code\advent-of-code-project\bin\Debug\net8.0\advent-of-code-project.runtimeconfig.json
+C:\Users\peter\Documents\advent-of-code\advent-of-code-project\bin\Debug\net8.0\advent-of-code-project.dll
+C:\Users\peter\Documents\advent-of-code\advent-of-code-project\bin\Debug\net8.0\advent-of-code-project.pdb
+C:\Users\peter\Documents\advent-of-code\advent-of-code-project\obj\Debug\net8.0\advent-of-code-project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\peter\Documents\advent-of-code\advent-of-code-project\obj\Debug\net8.0\advent-of-code-project.AssemblyInfoInputs.cache
+C:\Users\peter\Documents\advent-of-code\advent-of-code-project\obj\Debug\net8.0\advent-of-code-project.AssemblyInfo.cs
+C:\Users\peter\Documents\advent-of-code\advent-of-code-project\obj\Debug\net8.0\advent-of-code-project.csproj.CoreCompileInputs.cache
+C:\Users\peter\Documents\advent-of-code\advent-of-code-project\obj\Debug\net8.0\advent-of-code-project.sourcelink.json
+C:\Users\peter\Documents\advent-of-code\advent-of-code-project\obj\Debug\net8.0\advent-of-code-project.dll
+C:\Users\peter\Documents\advent-of-code\advent-of-code-project\obj\Debug\net8.0\refint\advent-of-code-project.dll
+C:\Users\peter\Documents\advent-of-code\advent-of-code-project\obj\Debug\net8.0\advent-of-code-project.pdb
+C:\Users\peter\Documents\advent-of-code\advent-of-code-project\obj\Debug\net8.0\advent-of-code-project.genruntimeconfig.cache
+C:\Users\peter\Documents\advent-of-code\advent-of-code-project\obj\Debug\net8.0\ref\advent-of-code-project.dll
