@@ -6,7 +6,7 @@ namespace advent_of_code_project
     public class Day3
     {
 
-        String str = "(mul)\\([0-9]*,[0-9]*\\)";
+
         public static void GetDay3()
         {
             String pattern = "(mul)\\([0-9]*,[0-9]*\\)";
