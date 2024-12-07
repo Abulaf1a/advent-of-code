@@ -11,10 +11,7 @@ namespace advent_of_code_project
 
         public static void Day4Method()
         {
-            StreamReader streamReader = new(ResourceLocator.address + "Day4Input.txt");
-
-            int answer = 18;
-
+            StreamReader streamReader = new(ResourceLocator.address);// + "Day4Input.txt");
 
             List<string> wordsearch = new List<string>();
 
